@@ -83,11 +83,3 @@ Create a GitHub repository, commit source code (not dataset/model files), push t
 
 See `azure/README.md`. Azure workspace creation, compute provisioning, endpoint deployment, online inference, and cost cleanup are separate steps. Do not claim deployment unless the endpoint is actually created and tested.
 
-## One-day deliverables
-1. Local training metrics and plots
-2. Saved pipeline and successful reload prediction
-3. FastAPI `/docs` prediction
-4. Passing pytest and GitHub Actions
-5. Local MLflow run(s)
-6. If Azure access permits: workspace-linked tracking, registered model, deployed endpoint, and successful endpoint test
-7. Report completed from `report/REPORT_TEMPLATE.md`, with genuine screenshots and actual results
