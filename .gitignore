@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.env
+data/*.csv
+models/*.joblib
+tests/test_model.joblib
+mlruns/
+mlflow.db
+mlflow.db-shm
+mlflow.db-wal
+artifacts/
+.DS_Store
